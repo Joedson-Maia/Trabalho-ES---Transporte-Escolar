@@ -16,8 +16,8 @@ Trabalho-ES---Transporte-Es...
 ├── imagens/ 
 │    └── Imagens utilizadas no projeto 
 ├── personas/ 
-│    ├── [pessoaPrincipal.md](personas/personaPrincipal.md) 
-│    └── pessoaSecundaria.md
+│    ├── personaPrincipal.md
+│    └── personaSecundaria.md
 ├── prototipos/ 
 │    ├── alta-fidelidade.md 
 │    ├── baixa-fidelidade.md 
@@ -25,7 +25,7 @@ Trabalho-ES---Transporte-Es...
 ├── requisitos/ 
 │    ├── requisitosfuncionais.md  
 │    └── requisitosnaofuncionais.md   
-├── [Descrição do problema](DescricaoDoProblema.md)
+├── DescricaoDoProblema.md
 ├── userstories.md  
 └── README.md
 ```
