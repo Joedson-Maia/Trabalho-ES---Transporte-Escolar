@@ -1,10 +1,11 @@
 # Trabalho-ES---Transporte-Escolar
 
 ## Integrantes:
-- **Robson** <br>
-- **Joédson** <br>
-- **Raimundo** <br>
-- **Luan**
+- **Robson** 
+- **Joédson** 
+- **Raimundo** 
+- **Luan** 
+- **Stênio**
 
 ## Descrição do Projeto
 Nosso projeto trata a respeito do tema 8. Mobilidade - Transporte Público. Buscamos criar um software que auxilie os usuários de transporte público em sua experiência, esclarecendo rotas, horários, pontos, atrasos e mudanças no itinerário dos motoristas.
@@ -12,12 +13,15 @@ Nosso projeto trata a respeito do tema 8. Mobilidade - Transporte Público. Busc
 ## Instruções de Navegação
 ```
 Trabalho-ES---Transporte-Es... 
-│ 
-├── imagens/ 
-│    └── Imagens utilizadas no projeto 
+│
+│
 ├── personas/ 
+│    ├── imagens/
+│    │    ├── Ana_persona.png
+│    │    └── Marcus_persona.png 
 │    ├── personaPrincipal.md
-│    └── personaSecundaria.md
+│    ├── personaSecundaria.md
+│    └── Userstories_Ana_e_Marcus.md
 ├── prototipos/ 
 │    ├── alta-fidelidade.md 
 │    ├── baixa-fidelidade.md 
@@ -25,7 +29,6 @@ Trabalho-ES---Transporte-Es...
 ├── requisitos/ 
 │    ├── requisitosfuncionais.md  
 │    └── requisitosnaofuncionais.md   
-├── DescricaoDoProblema.md
-├── userstories.md  
+├── DescricaoDoProblema.md  
 └── README.md
 ```
