@@ -1,4 +1,4 @@
-# Persona: Ana Cardoso
+# Ana Cardoso
 
 **Idade:** 21 anos  
 **Ocupação/Profissão:** Estudante de Engenharia (3.º semestre)  
