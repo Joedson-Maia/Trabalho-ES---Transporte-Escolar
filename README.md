@@ -21,8 +21,18 @@ Trabalho-ES---Transporte-Es...
 │    │    └── Marcus_persona.png 
 │    ├── personaPrincipal.md
 │    ├── personaSecundaria.md
-│    └── Userstories_Ana_e_Marcus.md
-├── prototipos/ 
+│     Userstories_Ana_e_Marcus.md
+├── prototipos/
+|    |  ├──assets/
+|    |  | └──PAF/
+|    |  |     ├──Comunicação-por-voz.png
+|    |  |     ├──Lista-de-rotas.png
+|    |  |     ├──Obstrução-Rota.png
+|    |  |     ├──Painel-Botão-Pânico.png
+|    |  |     ├──Painel-principal-motorista.png
+|    |  |     ├──Painel-principal-usuário.png
+|    |  |     ├──Rastreamento.png
+|    |  └──   └──Reportar-Problema-Mecânico.png
 │    ├── alta-fidelidade.md 
 │    ├── baixa-fidelidade.md 
 │    └── media-fidelidade.md 
