@@ -28,27 +28,27 @@ Planning Poker: 5
 
 # HISTÓRIAS DE USUÁRIO (MARCUS)
 
-## USER STORY 1
+## USER STORY 6
 Como motorista, desejo ter uma interface simplificada por voz para enviar alertas para comunicar imprevistos para os passageiros sem comprometer a segurança da direção.
 Prioridade: Alta
 Planning Poker: 2
 
-## USER STORY 2
+## USER STORY 7
 Como motorista, quero que o sistema atualize o horário estimado de chegada nos pontos automaticamente com base na minha localização, para reduzir a quantidade de ligações/reclamações da central.
 Prioridade: Média
 Planning Poker: 8
 
-## USER STORY 3
+## USER STORY 8
 Como motorista, quero visualizar alertas de trânsito e bloqueios em tempo real na minha rota, para desviar antecipadamente e minimizar atrasos.
 Prioridade: Alta
 Planning Poker: 8
 
-## USER STORY 4
+## USER STORY 9
 Como motorista, quero ter um botão de emergência/pânico no app, para acionar rapidamente a central em caso de assalto, acidente ou situação de risco.
 Prioridade: Alta
 Planning Poker: 3
 
-## USER STORY 5
+## USER STORY 10
 Como motorista, quero avisar a central sobre problemas mecânicos direto pelo aplicativo, para agilizar o suporte ou substituição do veículo.
 Prioridade: Média
 Planning Poker: 2
