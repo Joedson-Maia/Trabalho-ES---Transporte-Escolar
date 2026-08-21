@@ -12,5 +12,3 @@
 ## Organização das Tarefas
 ![ProjetoKanban](kanban/tabelakanban.png)
 Utilizamos uma organização de tarefas no estilo Kanban, divindo a função de cada um e a etapa desse processo
-
-## Justificativa das Escolhas
