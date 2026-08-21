@@ -21,3 +21,4 @@ Criar um chat com checkpoints que, de forma humana, mostre rotas, explique situa
 - Mais confiança na marca  
 - Relações mais fortes entre empresas e município  
 - Previsibilidade maior para o usuário
+- Maior Segurança para os usuários
