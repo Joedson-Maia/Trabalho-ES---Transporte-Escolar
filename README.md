@@ -25,20 +25,26 @@ Trabalho-ES---Transporte-Es...
 ├── prototipos/
 │    │  └──assets/
 │    │      └──PAF/
-│    │          ├──Comunicação-por-voz.png
-│    │          ├──Lista-de-rotas.png
-│    │          ├──Obstrução-Rota.png
-│    │          ├──Painel-Botão-Pânico.png
-│    │          ├──Painel-principal-motorista.png
-│    │          ├──Painel-principal-usuário.png
-│    │          ├──Rastreamento.png
-│    │          └──Reportar-Problema-Mecânico.png
+│    │      |   ├──Comunicação-por-voz.png
+│    │      |   ├──Lista-de-rotas.png
+│    │      |   ├──Obstrução-Rota.png
+│    │      |   ├──Painel-Botão-Pânico.png
+│    │      |   ├──Painel-principal-motorista.png
+│    │      |   ├──Painel-principal-usuário.png
+│    │      |   ├──Rastreamento.png
+│    │      |   └──Reportar-Problema-Mecânico.png
+│    │      ├──PBF/
+│    │      │   └──prtybaixafidelidade.jpeg
+│    │      │
+│    │      ├──PMF/
+│    │          └──prototipo-media-fidelidade-es.png
 │    ├── alta-fidelidade.md 
 │    ├── baixa-fidelidade.md 
 │    └── media-fidelidade.md 
 ├── requisitos/ 
 │    ├── requisitosfuncionais.md  
-│    └── requisitosnaofuncionais.md   
+│    └── requisitosnaofuncionais.md
+├── PlanejamentoInicial.md
 ├── DescricaoDoProblema.md  
 └── README.md
 ```
