@@ -1,6 +1,8 @@
-# MARCUS SANTOS
+# Marcus Santos
 - **Idade:** 34 anos
 - **Ocupação/Profissão:** Motorista de Ônibus
+
+![Persona do Marcus](imagens/Marcus_persona.png)
 
 ## Objetivos
 - Cumprir os horários das rotas com regularidade, evitando advertências e mantendo o emprego.

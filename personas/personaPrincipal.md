@@ -3,6 +3,8 @@
 **Idade:** 21 anos  
 **Ocupação/Profissão:** Estudante de Engenharia (3.º semestre)  
 
+![Painel da Ana](imagens/Ana_persona.png)
+
 ## Objetivos
 - Concluir a graduação com boas notas e garantir um estágio na área de engenharia.  
 - Reduzir o tempo gasto no deslocamento para ter mais tempo de estudo e descanso.  
